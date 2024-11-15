@@ -6,13 +6,13 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Sergio Bocci. </h1>
           </div>
-          <img
+          {/* <img
             className='pic'
             src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
             alt='tom holland'
-          />
+          /> */}
 
           <p className='description'>
           Hi, I’m Sergio! I’m passionate about AI and machine learning and am exploring how they intersect with cybersecurity, a field I find really exciting. I’m especially interested in how advanced algorithms can be used to protect data and anticipate cyber threats. Beyond tech, I’ve been a competitive swimmer since I was 5, so I know the value of dedication, discipline, and perseverance. Whether it’s in the pool or coding a project, I love pushing my limits and learning new skills. I’m always looking to connect with others who share similar interests in AI, cybersecurity, or swimming.
