@@ -15,14 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+          Hi, I’m Sergio! I’m passionate about AI and machine learning and am exploring how they intersect with cybersecurity, a field I find really exciting. I’m especially interested in how advanced algorithms can be used to protect data and anticipate cyber threats. Beyond tech, I’ve been a competitive swimmer since I was 5, so I know the value of dedication, discipline, and perseverance. Whether it’s in the pool or coding a project, I love pushing my limits and learning new skills. I’m always looking to connect with others who share similar interests in AI, cybersecurity, or swimming.
           </p>
 
           <a className='button' href='/'>
