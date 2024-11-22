@@ -15,7 +15,7 @@ export default function examplePage() {
           /> */}
 
           <p className='description'>
-          Hello! I'm Donna. I am interested in cybersecuirty and game development. I have been making 3D models, animations and studying game development related stuffs before cybersecurity has finally caught my attention on the last few years. 
+          Hello! I'm Donna. I am interested in cybersecuirty and game development. I have been making 3D models, animations and studying game development related stuffs before cybersecurity has finally caught my attention on the last few years. I think I finally figured out Git.
           </p>
 
           <a className='button' href='/'>
